@@ -1,0 +1,7 @@
+-add sounds
+
+-add more powerups
+
+-add high score
+
+-improve organization
